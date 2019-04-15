@@ -1,0 +1,66 @@
+<div class="Page">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 ">
+
+        <div class="form">
+            <div class="text-center">
+                <label class="text-center">Register</label> <br><br>
+            </div>
+            <div class="panel panel-success">
+                <div class="panel-header text-center"></div>
+                <div class="panel-body">
+                  <div class="alert alert-danger" *ngIf="error">
+                    <p>{{error}}</p>
+                  </div>
+                  <div class="alert alert-success" *ngIf="success">
+                      <p>{{success}}</p>
+                    </div>
+                  <form [formGroup]="myForm" (submit)="OnSubmit(myForm)">
+                    <div class="form-group">
+                      <label>Username : </label>
+                      <input type="text" class="form-control" formControlName="Username"/>
+                      <div class="" *ngIf="!myForm.controls['Username'].valid && myForm.controls['Username'].dirty">
+                        <p class="text text-danger">
+                          username is not valid
+                        </p>
+                      </div>
+                    </div>
+      
+                    <div class="form-group">
+                      <label>Password : </label>
+                      <input type="password" class="form-control" formControlName="Password" />
+                      <div class="" *ngIf="!myForm.controls['Password'].valid && myForm.controls['Password'].dirty">
+                        <p class="text text-danger">
+                            password is required
+                          </p>
+                        </div>
+                    </div>
+      
+                    <div class="form-group">
+                      <label>Confirm Password : </label>
+                      <input type="password" class="form-control" formControlName="comparepassword" />
+                      <div class="" *ngIf="!myForm.controls['comparepassword'].valid && myForm.controls['comparepassword'].dirty">
+                          <p class="text text-danger">
+                            compare password is required
+                          </p>
+                        </div>
+                    </div>
+      
+                    <div class="form-group">
+                      <button class="btn btn-success btn-block" [disabled]="!myForm.valid">submit</button>
+                    </div>
+                  </form>
+                  <a href="" routerLink="">Login</a>
+                </div>
+              </div>
+        </div>
+       
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>

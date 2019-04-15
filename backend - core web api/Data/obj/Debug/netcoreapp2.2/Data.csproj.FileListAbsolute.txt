@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json

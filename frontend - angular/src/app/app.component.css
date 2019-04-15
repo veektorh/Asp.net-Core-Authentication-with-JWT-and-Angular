@@ -1,0 +1,13 @@
+
+
+ul{
+    display: inline-block;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 8px;
+}

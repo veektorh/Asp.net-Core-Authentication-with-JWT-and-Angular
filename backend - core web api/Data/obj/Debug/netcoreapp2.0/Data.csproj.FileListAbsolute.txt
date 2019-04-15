@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.pdb
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.json
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.dev.json
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\user\Documents\VsProj\Core\2.0\api\OnionArchitecture\WebApplication2\Data\obj\Debug\netcoreapp2.0\Data.pdb
